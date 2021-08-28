@@ -1,0 +1,1 @@
+export const brands = ["xbox", "ps3", "ps4", "pc", "wii"];
